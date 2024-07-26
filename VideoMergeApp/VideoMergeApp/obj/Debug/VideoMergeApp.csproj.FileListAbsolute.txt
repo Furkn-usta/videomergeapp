@@ -1,0 +1,15 @@
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\bin\Debug\VideoMergeApp.exe.config
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\bin\Debug\VideoMergeApp.exe
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\bin\Debug\VideoMergeApp.pdb
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\obj\Debug\VideoMergeApp.csproj.AssemblyReference.cache
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\obj\Debug\VideoMergeApp.csproj.ResolveComReference.cache
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\obj\Debug\VideoMergeApp.Form1.resources
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\obj\Debug\VideoMergeApp.Properties.Resources.resources
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\obj\Debug\VideoMergeApp.csproj.GenerateResource.cache
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\obj\Debug\VideoMergeApp.csproj.CoreCompileInputs.cache
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\obj\Debug\VideoMergeApp.exe
+C:\Users\EnkayPC\source\repos\VideoMergeApp\VideoMergeApp\obj\Debug\VideoMergeApp.pdb
